@@ -12,3 +12,10 @@
     ```sh
     npm install
     ```
+
+## Uso
+
+Para iniciar la aplicación en modo de desarrollo:
+
+```sh
+npm run dev
