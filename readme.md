@@ -19,3 +19,4 @@ Para iniciar la aplicación en modo de desarrollo:
 
 1. ```sh
 npm run dev
+```
