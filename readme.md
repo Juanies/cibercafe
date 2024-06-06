@@ -15,8 +15,8 @@
 
 ## Uso
 
-Para iniciar la aplicación en modo de desarrollo:
 
-1. ```sh
+1. Para iniciar la aplicación en modo de desarrollo:
+```sh
 npm run dev
 ```
