@@ -17,5 +17,5 @@
 
 Para iniciar la aplicación en modo de desarrollo:
 
-```sh
+1. ```sh
 npm run dev
