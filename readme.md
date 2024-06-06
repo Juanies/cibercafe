@@ -17,6 +17,6 @@
 
 
 1. Para iniciar la aplicación en modo de desarrollo:
-```sh
-npm run dev
-```
+    ```sh
+    npm run dev
+    ```
