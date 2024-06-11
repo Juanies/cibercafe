@@ -5,9 +5,22 @@ body {
   align-items: center;
   justify-content: center;
   overflow: hidden;
-  background-image: url('./wavy-lines.svg');
-  background-size: cover;
+  background-color: black;
   user-select: none;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.global-box{
+  padding-left: 10%;
+  padding-top: 25%;
+  padding-bottom: 25%;
+  padding-right: 10%;
+  width: 90%;
+  height: 90%;
+  background-color: gray;
 }
 
 code {
