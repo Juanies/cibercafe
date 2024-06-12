@@ -3,7 +3,7 @@ function App(): JSX.Element {
 
   return (
     <>
-      holaaaa
+      <div className="text-bold text-xl text-pink-300">HOLsLAAA</div>
     </>
   )
 }
